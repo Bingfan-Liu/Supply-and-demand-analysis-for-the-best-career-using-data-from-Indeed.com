@@ -1,4 +1,4 @@
-# A Short Supply and Demand Analysis for the careers using data from Indeed.com
+# A Short Supply and Demand Analysis for the Careers using Data from Indeed.com
 
 #### Approximated readding time is about 10 mins
 
