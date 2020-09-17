@@ -1,6 +1,6 @@
 # A Short Supply and Demand Analysis for the Careers using Data from Indeed.com
 
-#### Approximated readding time is about 10 mins
+#### Approximated reading time is about 10 mins
 
 
 ### Part 1: The dataset and its relavance to the whole Canadian labor market
