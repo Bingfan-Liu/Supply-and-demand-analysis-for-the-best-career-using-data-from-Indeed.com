@@ -3,7 +3,7 @@
 #### Approximated reading time is about 10 mins
 
 
-### Part 1: The dataset and its relavance to the whole Canadian labor market
+### Part 1: The dataset and it's relavance to the whole Canadian labor market
 This analysis used the data obtained from the Indeed.com contained the information about the job postings in varies industry in 2018. And the goal of this analysis was to use the data from the Indeed.com to predict which kind of jobs or the industries would be good to step into years later.  
 
 The job information from Germany, Canada, and USA from the Indeed.com were gathered initially. Hoever, because of different histories, locations, cultures, and policies, the structures of the labor market are different between German, Canada, and the USA. And also the labor is hard to move between countries. So, it’s probably a good reason to look at only one country, Canada, rather than all of the three. It was assumed that for each job ID, it only corresponded to one job opening, and this is the same for all industries. Thus, the jobs were mapped into the same industrial category as to how it was defined in Bank of Canada. 
